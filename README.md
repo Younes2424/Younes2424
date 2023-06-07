@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Younes2424
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Object-oriented Programming
-- 💞️ I’m looking to collaborate on simple projects
+- 👀 I’m interested in programming AI applications
+- 🌱 I’m currently studying Bachelor of Computer Science at WSU
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 Reach me via LinkedIn: linkedin.com/in/younes-azamiyan-37565019a
 
 <!---
