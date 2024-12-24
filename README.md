@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Younes2424
 - 👀 I’m interested in programming AI applications
-- 🌱 I’m currently studying Bachelor of Computer Science at WSU
+- 🌱 I’m a Bachelor of Computer Science graduate from Western Sydney University
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 Reach me via LinkedIn: linkedin.com/in/younes-azamiyan-37565019a
 
